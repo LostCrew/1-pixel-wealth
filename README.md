@@ -1,4 +1,4 @@
-# A riguardo di questa pagina
+# Su questa pagina
 
 Versione italiana tradotta dall'[originale](https://mkorostoff.github.io/1-pixel-wealth).
 
